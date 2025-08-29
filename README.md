@@ -1,12 +1,10 @@
-Educational Institute Project
-📌 Overview
+Educational Institute Project:
+Overview
 This project is a web application designed for managing educational institutes.
 It includes both frontend and backend implementations to handle different modules like student records, courses, and administration.
-🏗 Project Structure
-/frontend
-    └── educational_institute
-/backend
-    └── (backend files here)
+Project Structure
+frontend-educational_institute
+backend(backend files here)
 Frontend: Built using HTML, CSS, JavaScript for the user interface.
 Backend: Handles data processing and logic (e.g., Java, APIs, database).
 Features:
@@ -19,7 +17,7 @@ Simple, responsive UI
 Frontend: HTML, CSS, JavaScript
 Backend: Java
 Version Control: Git & GitHub
-🚀 How to Run the Project
+How to Run the Project
 1. Clone the repository:
 git clone https://github.com/preethisuresh23/First-repo.git
 cd First-repo
